@@ -1,2 +1,2 @@
 FIRST LINE
-SECOND LINE
+SECOND LINE - 2nd commit - B
